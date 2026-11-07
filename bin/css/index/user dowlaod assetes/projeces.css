@@ -30,3 +30,23 @@
     font-size: 15px;
     color: #000;
 }
+.btn-projects1{
+    background-color: #ffffff;
+    height: 40px;
+    width: 150px;
+    margin-left: 13vw;
+    margin-top:800px;
+    border-radius:10px;
+    outline: none;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #e2e2e2;
+    color:#000000;
+    z-index: 1;
+    position: absolute;
+    cursor: pointer;
+    z-index: 3;
+}
+.btn-projects1:hover{
+    background-color:#f3f3f3;
+    transition: all 0.3s;}

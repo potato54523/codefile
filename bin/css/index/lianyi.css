@@ -14,7 +14,8 @@
     height: 40px;
     width: 150px;
     border-radius:7px;
-    margin-left: 100px;
+    margin-left: 13vw;
+    margin-top:750px;
     border: none;
     outline: none;
   position: relative;
@@ -23,29 +24,11 @@
   color:#000000;
   border-radius:10px;
   box-shadow:3px 3px 20px -10px;
-  margin-top:750px;
+  
   z-index: 3;
      position: absolute;
 }
-.projects1{
-    background-color: #08872b;
-    height: 40px;
-    width: 150px;
-    border-radius:7px;
-    margin-left: 100px;
-    margin-top:800px;
-    border: none;
-    outline: none;
-    position: relative;
-    overflow: hidden;
-    border: none;
-    color:#000000;
-    border-radius:10px;
-    box-shadow:3px 3px 20px -10px;
 
-  z-index: 3;
-     position: absolute;
-}
 @media (max-width:768px) {
   .lianyi-btn {
     margin-left: 10px;

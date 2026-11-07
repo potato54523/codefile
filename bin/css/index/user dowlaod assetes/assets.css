@@ -1,8 +1,8 @@
 
 .assets-t{
     position: absolute;
-    margin-top: 270px;
-    margin-left: 5vw;
+    margin-top: 260px;
+    margin-left: 10vw;
     font-size: 18px;
     color: #000000;
     z-index: 3;
@@ -15,8 +15,8 @@
 
 .assets1-t{
     position: absolute;
-    margin-top: 580px;
-    margin-left: 5vw;
+    margin-top: 570px;
+    margin-left: 10vw;
     font-size: 18px;
     color: #000000;
     z-index: 3;
@@ -26,11 +26,51 @@
     user-select: none;
     -webkit-touch-callout: none;
 }
+.assets-b-1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 10vw;
+    width: 18vw;
+    height: 160px;
+    background-color: #ffffff;
+    z-index: 3;
+    border: 1px solid #e2e2e2;
+}
+.assets-b1-1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 30vw;
+    width:18vw;
+    height: 160px;
+    background-color: #ffffff;
+    z-index: 3;
+    border: 1px solid #e2e2e2;;
+}
+.assets-b2-1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 50vw;
+    width: 18vw;
+    height: 160px;
+    background-color: #ffffff;
+    z-index: 3;
+    border: 1px solid #e2e2e2;
+}
+.assets-b3-1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 70vw;
+    width: 18vw;
+    height: 160px;
+    background-color: #ffffff;
+    z-index: 3;
+    border: 1px solid #e2e2e2;
+}
 .assets-b{
     position: absolute;
     margin-top: 310px;
-    margin-left: 3vw;
-    width: 23vw;
+    margin-left: 10vw;
+    width: 18vw;
     height: 250px;
     background-color: #ffffff;
     z-index: 2;
@@ -40,8 +80,8 @@
 .assets-b1{
     position: absolute;
     margin-top: 310px;
-    margin-left: 27vw;
-    width: 23vw;
+    margin-left: 30vw;
+    width:18vw;
     height: 250px;
     background-color: #ffffff;
     z-index: 2;
@@ -51,8 +91,8 @@
 .assets-b2{
     position: absolute;
     margin-top: 310px;
-    margin-left: 52vw;
-    width: 23vw;
+    margin-left: 50vw;
+    width: 18vw;
     height: 250px;
     background-color: #ffffff;
     z-index: 2;
@@ -62,8 +102,8 @@
 .assets-b3{
     position: absolute;
     margin-top: 310px;
-    margin-left: 77vw;
-    width: 23vw;
+    margin-left: 70vw;
+    width: 18vw;
     height: 250px;
     background-color: #ffffff;
     z-index: 2;
@@ -73,7 +113,7 @@
 .assets-to{
     position: absolute;
     margin-top: 270px;
-    margin-left: 88vw;
+    margin-left: 80vw;
     font-size: 18px;
     z-index: 3;
     -webkit-user-select: none;

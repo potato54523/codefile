@@ -172,16 +172,40 @@
 .window-2{
     position: absolute;
     z-index: 2;
-    margin-left: 3vw;
+    margin-left: 10vw;
     margin-top: 620px;
-    width: 47vw;
+    width: 38vw;
+    height: 400px;
+    background-color: #ffffff;
+    border-radius:10px;
+    border: 1px solid #e2e2e2;
+}
+.window-3{
+    position: absolute;
+    z-index: 2;
+    margin-left: 50vw;
+    margin-top: 620px;
+    width: 38vw;
     height: 400px;
     background-color: #ffffff;
     border-radius:10px;
     border: 1px solid #e2e2e2;
 }
 .window-text{
-    margin-left: 7vw;
+    margin-left: 13vw;
+    margin-top: 640px;
+    position: absolute;
+    z-index: 2;
+    color:#000000;
+    font-size: 20px;
+    -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+.window3-text{
+    margin-left: 53vw;
     margin-top: 640px;
     position: absolute;
     z-index: 2;
