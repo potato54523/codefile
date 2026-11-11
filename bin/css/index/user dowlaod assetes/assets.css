@@ -26,6 +26,60 @@
     user-select: none;
     -webkit-touch-callout: none;
 }
+.as-title{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 11vw;
+    color: #000;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    z-index: 5;
+}
+.as-img1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 10vw;
+    width: 18vw;
+    height: 160px;
+    background-color: #ffffff;
+    z-index: 4;
+    border: 1px solid #e2e2e2;
+}
+.asbtn1{
+    position: absolute;
+    margin-top: 515px;
+    margin-left: 11vw;
+    width: 5vw;
+    height: 40px;
+    background-color: #ffffff;
+    z-index: 4;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.asbtn1-1{
+    position: absolute;
+    margin-top: 515px;
+    margin-left: 17vw;
+    width: 5vw;
+    height: 40px;
+    background-color: #4f7cf6;
+    z-index: 4;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+.asbtn1-1:hover{
+    background:  #4a76f0;
+    transition: all 0.3s;}
+.as-btn:hover{
+    background-color:#f3f3f3;
+    color:#000000;
+    transition: all 0.3s;
+}
 .assets-b-1{
     position: absolute;
     margin-top: 350px;
@@ -36,6 +90,7 @@
     z-index: 3;
     border: 1px solid #e2e2e2;
 }
+
 .assets-b1-1{
     position: absolute;
     margin-top: 350px;
